@@ -1,7 +1,5 @@
 package boardgame;
 
-import java.security.PublicKey;
-
 public class Board {
 	
 	private int rows;
